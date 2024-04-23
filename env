@@ -8,8 +8,8 @@ TZ=
 
 # BACKEND
 BACKEND_PORT=
-BACKEND_SERVER_NAME=api.mydomain.com
-BACKEND_URL=https://api.mydomain.com
+BACKEND_SERVER_NAME=api.deploys.life
+BACKEND_URL=https://api.deploys.life
 PROXY_PORT=443
 JWT_SECRET=
 JWT_REFRESH_SECRET=
@@ -17,8 +17,8 @@ JWT_REFRESH_SECRET=
 # FRONTEND
 FRONTEND_PORT=80
 FRONTEND_SSL_PORT=443
-FRONTEND_SERVER_NAME=myapp.mydomain.com
-FRONTEND_URL=https://myapp.mydomain.com
+FRONTEND_SERVER_NAME=app.deploys.life
+FRONTEND_URL=https://app.deploys.life
 
 # BROWSERLESS
 MAX_CONCURRENT_SESSIONS=
